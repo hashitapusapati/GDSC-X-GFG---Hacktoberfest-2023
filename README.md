@@ -1,2 +1,2 @@
-# GDSC-X-GFG---Hacktoberfest-2023
-Welcome to the official repository for the "GDSC X GFG - Hacktoberfest 2023" event! 🚀
+# GFG_SC_LIET Project Repository
+Welcome to the official repository for the "GFG_SC_LIET Project Repository" event! 🚀
